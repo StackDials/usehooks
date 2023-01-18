@@ -1,0 +1,28 @@
+# compiled output
+dist/
+
+# tests config
+tests/
+coverage/
+config/
+
+
+# js files
+.eslintrc.json
+
+# dependencies
+node_modules/
+package-lock.json
+package.json
+
+# project config
+tsconfig.json
+tsconfig.node.json
+tsconfig.build.json
+
+# jest config
+jest.config.e2e.ts
+jest.config.ts
+
+# commitlint config
+commitlint.config.ts
