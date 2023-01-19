@@ -14,6 +14,7 @@
 [![License](https://badgen.net/badge/License/MIT/blue)](https://github.com/StackDials/usehooks/blob/main/LICENSE)
 ![npm bundle size](https://img.shields.io/bundlephobia/minzip/usehooks)
 [![npm](https://img.shields.io/npm/v/usehooks)](https://www.npmjs.com/package/usehooks)
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 <!-- [![All Contributors](https://img.shields.io/badge/all_contributors-88-orange.svg?style=flat-square)](#contributors-) -->
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
@@ -68,7 +69,7 @@ npm install
 ```
 
 <!-- ### Create or update a new hook -->
-<!-- 
+<!--
 ```bash
 # This command generates boilerplate for new hooks.
 # Skip if updating an existed hook.
