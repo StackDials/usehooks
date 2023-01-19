@@ -1,6 +1,6 @@
 {
   "name": "usehooks",
-  "private": true,
+  "private": false,
   "version": "0.0.1-alpha.0",
   "type": "module",
   "scripts": {
