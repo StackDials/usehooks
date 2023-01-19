@@ -1,6 +1,6 @@
-import { pathsToModuleNameMapper } from 'ts-jest'
+import { pathsToModuleNameMapper } from 'ts-jest';
 
-import { compilerOptions } from './tsconfig.json'
+import { compilerOptions } from './tsconfig.json';
 
 export default {
   roots: ['<rootDir>/src'],
@@ -44,6 +44,6 @@ export default {
   testRegex: ['.*\\.spec\\.ts$', '.*\\.test\\.ts$'],
   watchPlugins: ['jest-watch-typeahead/filename', 'jest-watch-typeahead/testname'],
   resetMocks: true,
-  projects: ['<rootDir>/**/jest.config.js'],
+  projects: ['<rootDir>/jest.config.ts'],
   coverageReporters: ['json-summary', 'lcov'],
-}
+};
